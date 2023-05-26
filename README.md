@@ -7,12 +7,12 @@ This summer school teaches students computational methods and their application 
 This Github page contains all materials for this year's summer school
 
 The topics and speakers are as follows: 
-- Keynote: Human-Centered AI Transparency: Lessons Learned and Open Questions in the Age of LLMs by [Q. Vera Liao](http://qveraliao.com/)
-- Lecture: Computational Methods for Designing Recommender Systems by [Bereket A. Yilma](https://bekyilma.github.io/)
-- Lecture: Text Entry Modeling and Interaction by [Per Ola Kristensson](https://pokristensson.com/)
-- Lecture: Geometric Optimization by [Alexandra Ion](https://www.alexandraion.com/)
-- Lecture: Combinatorial Optimization for Mixed Reality Interfaces by [David Lindlbauer](https://www.davidlindlbauer.com/)
-- Lecture: Interactive Explainable and Interpretable AI by [Nikola Banovic](http://www.nikolabanovic.net/)
+- Day 1 (June 19th) Keynote: Human-Centered AI Transparency: Lessons Learned and Open Questions in the Age of LLMs by [Q. Vera Liao](http://qveraliao.com/)
+- Day 2 (June 20th) Lecture: Computational Methods for Designing Recommender Systems by [Bereket A. Yilma](https://bekyilma.github.io/)
+- Day 3 (June 21st) Lecture: Text Entry Modeling and Interaction by [Per Ola Kristensson](https://pokristensson.com/)
+- Day 4 (part 1) (June 22nd) Lecture: Geometric Optimization by [Alexandra Ion](https://www.alexandraion.com/)
+- Day 4 (part 2) (June 22nd) Lecture: Combinatorial Optimization for Mixed Reality Interfaces by [David Lindlbauer](https://www.davidlindlbauer.com/)
+- Day 5 (June 23rd) Lecture: Interactive Explainable and Interpretable AI by [Nikola Banovic](http://www.nikolabanovic.net/)
 
 
 
