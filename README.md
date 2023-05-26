@@ -18,9 +18,9 @@ The topics and speakers are as follows:
 
 
 The school was organized by:
-- [Nikola Banovic, Computational HCI Lab, University of Michigan, Ann Arbor](http://www.nikolabanovic.net/)
-- [Anindya Das Antar (student volunteer), Computational HCI Lab, University of Michigan, Ann Arbor](https://adantar1618.com/)
-- [Sumit Asthana (student volunteer), Computational HCI Lab, University of Michigan, Ann Arbor](https://sumitasthana.xyz/)
+- [Nikola , Banovic](http://www.nikolabanovic.net/) ,Computational HCI Lab, University of Michigan, Ann Arbor
+- [Anindya, Das Antar](https://adantar1618.com/) (student volunteer), Computational HCI Lab, University of Michigan, Ann Arbor
+- [Sumit, Asthana](https://sumitasthana.xyz/)  (student volunteer), Computational HCI Lab, University of Michigan, Ann Arbor
 
 More Details at -- 
 https://cixschool2023.engin.umich.edu/
