@@ -4,7 +4,7 @@ This git repository accompanies the 7th Summer School on Computational Interacti
 
 This summer school teaches students computational methods and their application in user interface design, optimization, and evaluation. Each day will feature one or two outstanding speakers who will share their expertise on a technical topic relevant to Computational Interaction. Keynote speakers will introduce the theme of this year’s school. Individual lectures will give students an overview of different topics in Computational Interaction, and will include exercises that will give students hands-on experience with Computational Interaction research. See our lineup of exciting speakers this year!
 
-It contains all material for teaching HCI students, researchers, and industry professionals computational methods and their applications in user interface design, interactive systems, user modeling, and more. Each day featured one or two outstanding researchers who shared their expertise on a technical topic and advice attendants in practical hands-on sessions — always in relevance to HCI.
+This Github page contains all materials for this year's summer school
 
 The topics and speakers are as follows: 
 - Keynote: Human-Centered AI Transparency: Lessons Learned and Open Questions in the Age of LLMs by [Q. Vera Liao](http://qveraliao.com/)
