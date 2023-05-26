@@ -1,4 +1,4 @@
-# 7th Summer School on Computational Interaction 2023 - 
+# 7th Summer School on Computational Interaction 2023 
 
 This git repository accompanies the 7th Summer School on Computational Interaction which will be held at the University of Michigan in Ann Arbor, Michigan, USA. It will take place June 19 – 23, 2023. 
 
