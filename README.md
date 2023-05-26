@@ -12,7 +12,7 @@ The topics and speakers are as follows:
 - Lecture: Text Entry Modeling and Interaction by [Per Ola Kristensson](https://pokristensson.com/)
 - Lecture: Geometric Optimization by [Alexandra Ion](https://www.alexandraion.com/)
 - Lecture: Combinatorial Optimization for Mixed Reality Interfaces by [David Lindlbauer](https://www.davidlindlbauer.com/)
-- Lecture: Interactive Explainable and Interpretable AI  [Nikola Banovic](http://www.nikolabanovic.net/)
+- Lecture: Interactive Explainable and Interpretable AI by [Nikola Banovic](http://www.nikolabanovic.net/)
 
 
 
