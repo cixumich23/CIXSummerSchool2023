@@ -21,7 +21,7 @@
 
     * On Windows:
     ```sh
-    activate myenv
+    activate cix23
     ```
 3. Install Requirements:
 
