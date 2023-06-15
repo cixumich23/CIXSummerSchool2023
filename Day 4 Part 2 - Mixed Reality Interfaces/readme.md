@@ -5,7 +5,8 @@ Optional pre-reads:
 
 
 # Instructions
-I used Conda for installing packages, and IntelliJ PyCharm as python IDE. Feel free to use any other software, but those are the ones I can support during class.
+I used Conda for installing packages, and IntelliJ PyCharm (https://www.jetbrains.com/pycharm/; free for academic use) as python IDE.   
+Feel free to use any other software such as Visual Studio Code as IDE, but those are the ones I can support during class.
 
 1. Conda: Download and install Anaconda (https://www.anaconda.com/)
 2. Start command prompt with conda access
