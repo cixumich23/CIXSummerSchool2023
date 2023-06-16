@@ -9,7 +9,7 @@
 ### Creating a Conda Environment:
 1. To create a new Conda environment, open a new command prompt or terminal and use the following command:
     ```sh
-    conda create --name cix23 python=3.8
+    conda create --name cix23 python=3.9
     ```
     Replace "cix23" with your desired environment name, 
 
