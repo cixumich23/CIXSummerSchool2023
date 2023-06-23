@@ -1,6 +1,6 @@
 To run this notebook you will need Python3, Jupyter, and a few other things. To get the required libraries and frameworks, please first install the requirements from the requirements.txt file:
 
-<code>pip3 install -r requirements.txt</code>code>
+<code>pip3 install -r requirements.txt</code>
 
 <strong>Optional and highly complicated!</strong> In order to install `pySequentialLineSearch` the following prerequisites needs to be fulfilled:
 
